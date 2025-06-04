@@ -14,6 +14,7 @@ Welcome to **Kollab Video Call**, a seamless and secure video conferencing platf
 - 🎨 Material UI (MUI)
 - 📦 Axios (API communication)
 - 🌍 Responsive CSS + Flex Layout
+- 🔗 **WebRTC** – Real-time peer-to-peer video and audio streaming
 
 ### Backend:
 - 🟢 Node.js + Express.js
