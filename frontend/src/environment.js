@@ -1,5 +1,5 @@
 
-let IS_PROD = true;
+const IS_PROD = true;
 const server = IS_PROD ?
     "https://kollabvideocallbackend.onrender.com" :
 
